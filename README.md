@@ -1,11 +1,16 @@
 # THIS IS A BACKUP SERVER - Please DO NOT use this for any deployemnts this is only a backup for an overload or outage
-# Main server - https://github.com/CyberZenDev/GhostAI - ghostai.cyclic.sh - Current Status - Down for maintence
-# Backup Server 1 - https://github.com/ghostaimirror/GhostAI1 - ghostai1.cyclic.sh - Current Status - Up
-# Backup Server 2 - https://github.com/MyGuyKai1/GhostAI2 - Current Status - Up
-# Thanks to MyGuyKai1 for hosting the backup server
 
+# Main server - https://github.com/CyberZenDev/GhostAI 
+# Main Server -  https://ghostai.cyclic.sh 
+# Current Status - Down for maintence
 
+# Backup Server 1 - https://github.com/ghostaimirror/GhostAI1 
+# Backup Server 1 - https://ghostai1.cyclic.sh 
+# Current Status - Up
 
+# Backup Server 2 - https://github.com/MyGuyKai1/GhostAI2 
+# Backup Server 2 - https://ghostai2.cyclic.sh
+# Current Status - Up
 
 # GhostAI - Versatile Trainable Model
 
@@ -41,3 +46,10 @@ GhostAI is a versatile trainable model based on Google Gemini.
 ## Deploy to Cyclic
 
 [![Deploy to Cyclic](https://deploy.cyclic.sh/button.svg)](https://deploy.cyclic.sh/)
+
+
+
+
+# Credits
+- Thanks to MyGuyKai1 for hosting the backup server
+
