@@ -32,7 +32,7 @@ print_current_api_key()  # Initial print
 
 @app.route('/') # Define the main route
 def home():
-    return render_template('site_down.html')
+    return render_template('index.html')
 
 @app.route('/privacy') # Define the privacy policy route for google play
 def Privacy():
