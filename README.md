@@ -1,15 +1,15 @@
 # THIS IS A BACKUP SERVER - Please DO NOT use this for any deployemnts this is only a backup for an overload or outage
 
 # Main server - https://github.com/CyberZenDev/GhostAI 
-# Main Server -  https://ghostai.cyclic.sh 
+# Main Server -  https://ghostai.cyclic.app
 # Current Status - Down for maintence
 
 # Backup Server 1 - https://github.com/ghostaimirror/GhostAI1 
-# Backup Server 1 - https://ghostai1.cyclic.sh 
+# Backup Server 1 - https://ghostai1.cyclic.app
 # Current Status - Up
 
 # Backup Server 2 - https://github.com/MyGuyKai1/GhostAI2 
-# Backup Server 2 - https://ghostai2.cyclic.sh
+# Backup Server 2 - https://ghostai2.cyclic.app
 # Current Status - Up
 
 # GhostAI - Versatile Trainable Model
