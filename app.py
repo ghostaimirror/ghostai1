@@ -41,7 +41,9 @@ def Privacy():
 @app.route('/settings') # Set a settings route
 def settings():
     return render_template('settings.html', default_api_key=app.config['API_KEY']) # Render the settings page and pass the default api key to the html
-
+@app.route('/download')
+def download():
+    return render_template('downloads.html')
 @app.route('/save_api_key', methods=['POST']) # Save the custom api key
 def save_api_key(): # Define the save_api_key function
     api_key = request.form.get('api_key')
